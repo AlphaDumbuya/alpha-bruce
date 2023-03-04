@@ -1,0 +1,11 @@
+@media screen and (main-width){
+    body{
+        background-color: lightgreen;
+    }
+}
+#navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
